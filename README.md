@@ -16,8 +16,8 @@ The project explores the limits of traditional ML (KNN, SVM) and compares them t
 *   **Models:** XGBoost, KNN, SVM and LSTM.
 
 ## 🏆 Results
+*   **XGBoost:** 97.99% Accuracy, 99.76% Recall.
 *   **LSTM:** 97.97% Accuracy, 100% Recall.
-*   **XGBoost:** 97.9% Accuracy, 99.76% Recall.
 *   **KNN:** 96.68% Accuracy, 98.18% Recall.
 *   **SVM:** 87.82% Accuracy, 100% Recall.
 
