@@ -13,7 +13,7 @@ The project explores the limits of traditional ML (KNN, SVM) and compares them t
 ## 🛠️ Methodology
 *   **Feature Engineering:** Expanded from 16 to 39 features (Time, Amount, Network, and Fraud History).
 *   **Class Balancing:** Random Downsampling, SMOTE (Training only), and Class Weights.
-*   **Models:** XGBoost, KNN, SVM and LSTM.
+*   **Models:** KNN, XGBoost, SVM and LSTM.
 
 ## 🏆 Results
 *   **XGBoost:** 97.99% Accuracy, 99.76% Recall.
@@ -21,6 +21,6 @@ The project explores the limits of traditional ML (KNN, SVM) and compares them t
 *   **KNN:** 96.68% Accuracy, 98.18% Recall.
 *   **SVM:** 87.82% Accuracy, 100% Recall.
 
-## 👥 Authors
+## 👥 Contributors
 *   Mehwish Roqaiya
 *   Muneeba
