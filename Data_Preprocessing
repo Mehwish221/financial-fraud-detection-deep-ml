@@ -1,0 +1,9 @@
+STEP 1: Load Dataset
+STEP 2: Drop Original Timestamp
+STEP 3: Handle Missing Values (drop fraud_type= 96% null and fill missing value with median time_since_last_transaction= 18% )
+STEP 4: Remove Outliers (3× IQR)
+STEP 5: Encode Categorical Columns
+STEP 6: Normalize All Features
+STEP 7: Extract Time Features from Timestamp
+STEP 8: Feature Engineering: Create Amount Features, Fraud History Features etc.
+Clean dataset: 4.96M rows and 39 features ready for modelling
